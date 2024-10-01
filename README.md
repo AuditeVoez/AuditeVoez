@@ -5,8 +5,8 @@ That being said, I am still a beginner so I may not be of much help.
 
 
 You can contact me through the following:
-Email: 0821tenshi@gmail.com
-Discord: @AuditeVoez
+Email: 0821tenshi@gmail.com 
+Discord: @AuditeVoez 
 LINE ID: auditevoez
 
 Fun facts about me:
