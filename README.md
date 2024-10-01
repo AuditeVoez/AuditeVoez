@@ -5,7 +5,19 @@ That being said, I am still a beginner so I may not be of much help.
 
 
 You can contact me through the following:
-Email
+
+| Service  | Contact Information |
+| ------------- | ------------- |
+| Email  | 0821tenshi@gmail.com  |
+| Discord  | @AuditeVoez  |
+| LINE  | auditevoez  |
+
+Fun facts about me:
+- I avidly listen to Japanese music
+- I am a bit goofy.
+- I have over 700 hours in MHR.
+
+<!--Email
 : 0821tenshi@gmail.com 
 Discord
 : @AuditeVoez 
