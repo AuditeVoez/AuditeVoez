@@ -1,4 +1,5 @@
-## Hello! I am AuditeVoez, a Computer Science freshman at the University of San Carlos. 
+## Hello! 
+I am AuditeVoez, a Computer Science freshman at the University of San Carlos. 
 
 Right now, I am focusing my studies on the `C` language.
 That being said, I am still a beginner so I may not be of much help.
